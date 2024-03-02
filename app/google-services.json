@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "846784037434",
+    "project_id": "correos-e9a75",
+    "storage_bucket": "correos-e9a75.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:846784037434:android:75933bd97e88132a006b03",
+        "android_client_info": {
+          "package_name": "com.manuelrosado.autenticacion"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBSgrozBpKBhKnonrlwqYDuj_RmKgigWpE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
